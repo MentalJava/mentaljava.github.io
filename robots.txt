@@ -1,0 +1,1 @@
+Sitemap: https://mentaljava.github.io/jekyll-theme-yat/sitemap.xml
